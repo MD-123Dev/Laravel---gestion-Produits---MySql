@@ -16,7 +16,7 @@
 + Ajax
 + Upload Image and Store 
 + Validation data 
-+ Message Confirmation et validation laravel
++ Message Confirmation et validation 
 + Importe and Store CVS file . 
 + Relationship
 + Affichier produit et son detail
