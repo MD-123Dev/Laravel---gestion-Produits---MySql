@@ -9,6 +9,7 @@
 
 ## Project Components : 
 
++ MVC 
 + CRUD ( one table )
 + CRUD with Relationship (two tables)
 + Search 
