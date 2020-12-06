@@ -21,6 +21,16 @@
 + Relationship
 + Affichier produit et son detail
 
+## Screenshot :
+ 
+ ![page1](https://user-images.githubusercontent.com/43389513/101285706-f0fc3b80-37e6-11eb-90d8-802951cde748.PNG)
+
+![page2](https://user-images.githubusercontent.com/43389513/101285716-fd809400-37e6-11eb-8fc9-ac9214c535d9.PNG)
+
+![save](https://user-images.githubusercontent.com/43389513/101285721-040f0b80-37e7-11eb-81e4-f2f2741ffad6.PNG)
+
+
+ 
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
