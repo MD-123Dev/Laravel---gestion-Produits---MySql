@@ -1,0 +1,4 @@
+produitA;Catego1
+prroduitB;Catego2
+produitC;Catego3
+produitD;Catego4

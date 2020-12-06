@@ -1,0 +1,111 @@
+  .textid {
+      color: brown;
+  }
+
+
+
+  .navbar {
+      background-color: transparent !important;
+
+  }
+
+  .navbar .nav-item .nav-link {
+      color: blueviolet !important;
+  }
+
+  .navbar .nav-item .nav-link:hover {
+      color: deeppink !important;
+      border-bottom: 2px solid firebrick;
+
+  }
+
+  .navbar .navbar-brand {
+      font-size: 40px;
+  }
+
+  .nav .nav-link .fas {
+      color: lightseagreen;
+      font-size: 1.30em;
+      width: 25px;
+  }
+
+
+  .carousel-inner img {
+      width: 100%;
+      height: 50%;
+  }
+
+  .imageview {
+      margin-top: 25px;
+  }
+
+
+  div.locationFooter {
+      text-align: left;
+  }
+
+  div .txt1 h6 {
+      color: darkgrey;
+      text-align: center;
+
+  }
+
+  div .txt1 h1 {
+      text-align: center;
+      font-size: 45px;
+      font-style: normal;
+
+  }
+
+  .container .txt1 {
+      margin-top: 25px;
+  }
+
+  .container .text-center {
+      text-align: center;
+      left: 25%;
+  }
+
+  .divh h2 {
+      text-align: center;
+      font-size: 40px;
+      font-style: italic;
+      color: darkgray;
+      margin-top: 25px;
+  }
+
+  .jumbotron .icon span .flab {
+      position: static;
+      left: 50%;
+      right: 50%;
+      top: 50%;
+  }
+
+  .container .imageshoping .imagesoping2 {
+      margin-top: 150px;
+  }
+
+  h2.txtiamge4 {
+
+      font-size: 40px;
+      font-style: italic;
+      color: darksalmon;
+      margin-top: 25px;
+      margin-bottom: 15px;
+
+  }
+
+  .copyright {
+      text-align: center;
+      margin-top: 25px;
+  }
+
+  .textcol img.iamgeshop {
+      margin-left: 100px;
+      margin-top: 25px;
+
+  }
+
+  body {
+      background-color: blanchedalmond;
+  }
