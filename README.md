@@ -20,6 +20,7 @@
 + Importe and Store CVS file . 
 + Relationship
 + Affichier produit et son detail
++ Jointure 
 
 ## Screenshot :
  
