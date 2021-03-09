@@ -23,6 +23,11 @@
 + Affichier produit et son detail
 + Jointure 
 
+## Diagrame : 
+
+![Digrame de produit](https://user-images.githubusercontent.com/43389513/110508612-7acae600-8101-11eb-9547-ad607ee56c6e.PNG)
+
+
 ## Screenshot :
  
  ![page1](https://user-images.githubusercontent.com/43389513/101285706-f0fc3b80-37e6-11eb-90d8-802951cde748.PNG)
