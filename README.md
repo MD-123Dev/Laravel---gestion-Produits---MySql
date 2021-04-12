@@ -10,6 +10,7 @@
 ## Project Components : 
 
 + MVC 
++ ORM ( Object–relational mapping )
 + CRUD ( one table )
 + CRUD with Relationship (two tables)
 + Search 
