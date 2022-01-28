@@ -19,7 +19,7 @@
 + Upload Image and Store 
 + Validation data 
 + Message Confirmation et validation 
-+ Importe and Store CVS file . 
++ Importe and Store CSV file . 
 + Relationship
 + Affichier produit et son detail
 + Jointure 
