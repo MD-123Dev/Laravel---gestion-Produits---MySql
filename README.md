@@ -37,6 +37,8 @@
 
 ![save](https://user-images.githubusercontent.com/43389513/101285721-040f0b80-37e7-11eb-81e4-f2f2741ffad6.PNG)
 
+![Capture](https://user-images.githubusercontent.com/43389513/151624468-06dda601-aa90-4a16-ab9a-5ad68406ea8d.PNG)
+
 
  
 ## About Laravel
